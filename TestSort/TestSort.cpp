@@ -266,6 +266,7 @@ int main()
 	
 	std::cout<<"First commit\n";
 	std::cout<<"Second commit\n";
+	std::cout<<"3d that will not go to commit\n";
 	
    char a1;
    char b =  '\0';
