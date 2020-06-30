@@ -1,0 +1,14 @@
+﻿  TestProj.cpp
+d:\с++\testproj\testproj\testproj.cpp(175): warning C4018: '<': signed/unsigned mismatch
+d:\с++\testproj\testproj\testproj.cpp(177): warning C4018: '<': signed/unsigned mismatch
+d:\с++\testproj\testproj\testproj.cpp(204): warning C4018: '<': signed/unsigned mismatch
+d:\с++\testproj\testproj\testproj.cpp(241): warning C4018: '<': signed/unsigned mismatch
+d:\с++\testproj\testproj\testproj.cpp(271): warning C4018: '<': signed/unsigned mismatch
+d:\с++\testproj\testproj\testproj.cpp(497): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\с++\testproj\testproj\testproj.cpp(542): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\с++\testproj\testproj\testproj.cpp(644): warning C4018: '<': signed/unsigned mismatch
+d:\с++\testproj\testproj\testproj.cpp(662): warning C4018: '<': signed/unsigned mismatch
+d:\с++\testproj\testproj\testproj.cpp(922): warning C4018: '<': signed/unsigned mismatch
+d:\с++\testproj\testproj\testproj.cpp(719): warning C4101: 'compInstance': unreferenced local variable
+  TestProj.vcxproj -> D:\С++\TestProj\Debug\TestProj.exe
+  TestProj.vcxproj -> D:\С++\TestProj\Debug\TestProj.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Palindrome.cpp
+d:\с++\testproj\palindrome\palindrome.cpp(39): warning C4018: '<': signed/unsigned mismatch
+d:\с++\testproj\palindrome\palindrome.cpp(49): warning C4018: '<': signed/unsigned mismatch
+d:\с++\testproj\palindrome\palindrome.cpp(57): warning C4018: '<': signed/unsigned mismatch
+d:\с++\testproj\palindrome\palindrome.cpp(80): warning C4018: '<': signed/unsigned mismatch
+d:\с++\testproj\palindrome\palindrome.cpp(101): warning C4018: '<': signed/unsigned mismatch
+d:\с++\testproj\palindrome\palindrome.cpp(129): warning C4018: '<': signed/unsigned mismatch
+  Palindrome.vcxproj -> D:\С++\TestProj\Debug\Palindrome.exe
+  Palindrome.vcxproj -> D:\С++\TestProj\Debug\Palindrome.pdb (Full PDB)
